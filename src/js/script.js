@@ -53,11 +53,17 @@ const baseMusicas = [
         'path': './src/audio/Felipe_Sarro_-_11_-_C_Schumann_Scherzo_in_C_minor_Op_14.mp3',
         'album': '2 Good Enough',
     },
-    {
+     {
+        'name': 'Karine_Gilanyan_-_Beethoven_-_Piano_Sonata_nr15_in_D_major_op28_Pastoral_-_I_Allegro (1).mp3',
+        'artist': 'Karine Gilanyan',
+        'path': './src/musics/Karine_Gilanyan_-_Beethoven_-_Piano_Sonata_nr15_in_D_major_op28_Pastoral_-_I_Allegro%20(1).mp3' ,
+        'album': '3 Good Enough',
+     },
+     {
         'name': 'James Scott - Frog Legs Rag 1906 piano roll',
         'artist': 'Anonymous',
         'path': './src/audio/James_Scott_-_01_-_Frog_Legs_Rag_1906_piano_roll.mp3',
-        'album': '3 Good Enough',
+        'album': '4 Good Enough',
     }
 ];
 

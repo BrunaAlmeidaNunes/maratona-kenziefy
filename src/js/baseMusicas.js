@@ -18,9 +18,10 @@ const baseMusicas = [
         'album': 'Good Enough',
     },
     {
-        'name': 'Anonymous Choir - Unus Ex Discipulis Meis',
-        'artist': 'Anonymous',
-        'path': './src/musics/Anonymous_Choir_-_Unus_Ex_Discipulis_Meis.mp3',
+        'name': 'Karine_Gilanyan_-_Beethoven_-_Piano_Sonata_nr15_in_D_major_op28_Pastoral_-_I_Allegro (1).mp3',
+        'artist': 'Karine Gilanyan',
+        'path': './src/musics/Karine_Gilanyan_-_Beethoven_-_Piano_Sonata_nr15_in_D_major_op28_Pastoral_-_I_Allegro%20(1).mp3
+        ',
         'album': 'Good Enough',
     },
     {
